@@ -1,6 +1,6 @@
 # Cygwin Mirror Checker
 
-This will fetch, scan, analyze the response times of all Cygwin mirror servers, ranks them by speed (how fast servers responded, quickest first response)), and reports the state/area that server is in.
+This will fetch, scan, analyze the response times of all Cygwin mirror servers, ranks them by speed (how fast servers responded, quickest first response), and reports the state/area that server is in.
 
 ![Usage of cygwin mirror checker](https://github.com/tylerjkline/cygwin-mirror-checker/raw/Staging/Cygwin.gif)
 

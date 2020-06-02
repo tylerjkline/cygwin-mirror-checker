@@ -2,7 +2,6 @@
 
 This will fetch, scan, analyze the response times of all Cygwin mirror servers, ranks them by quickest, and reports the state/area that server is in.
 
-![cygwin-mirror-checker](https://media.giphy.com/media/XDvnAiULlyKmh20gRF/source.gif)
 The reason I did this is that it's been 4 years since the last time someone posted this script, so until now, it hasn't been updated, and given great looks... 
 
 Just a great script that was outdated and needed a nice polishing, couldn't find anyone else who did it, so I did.
